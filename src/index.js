@@ -1,4 +1,4 @@
-import "./styles.css";
+// import "styles.css";
 
 const mouth = document.querySelector(".mouth");
 const v = document.querySelector(".vulcan-salute");
