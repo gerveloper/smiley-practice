@@ -1,4 +1,4 @@
-# Welocme to [smiley-practice](https://github.com/gerveloper/smiley-practice#smiley-practice)!
+# Welcome to [smiley-practice](https://github.com/gerveloper/smiley-practice#smiley-practice)!
 
 > HTML, CSS &amp; JS short practice (beginner)
 
