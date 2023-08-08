@@ -2,6 +2,10 @@
 
 > HTML, CSS &amp; JS short practice (beginner)
 
+------------
+#### [WATCH IT DEPLOYED HERE!](https://gerveloper.github.io/smiley-practice/ "WATCH IT DEPLOYED HERE!")
+------------
+
 In this short practice I tried to play around a little bit with **HTML**, **CSS** and **JS**. It’s simply a face that will change its mood according to user input. The name is *Smiley… Captain Smiley*, actually (based on a DS9 character from the alternate universe).
 
 
